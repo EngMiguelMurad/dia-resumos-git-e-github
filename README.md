@@ -11,7 +11,8 @@ Repositório para armazenar dados e resumos do curso de versionamento de código
 
 |Aulas|Resumos|
 |-------|--------|
-|Gravando Alterações no Repositório Local | [Resumos] ()|
+|Aula 01| [Resumo] ()|
+|Aula 02| [Resumo] ()|
 
 ```
 git Init
